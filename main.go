@@ -13,7 +13,7 @@ func main() {
 		Name: "CADBucket",
 		Usage: "Collaborate On Cad Models",
 		Action: func(*cli.Context) error {
-			fmt.Println("Hello World")
+			fmt.Println("e")
 			return nil
 		},
 	}
